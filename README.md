@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @hazard-overkill
 - 👀 I’m interested in Game Development
-- 🌱 I’m currently learning Python, Unity and C#
+- 🌱 I’m currently learning C++, C#, Unity and Unreal Engine
 - 💞️ I’m looking to collaborate on making Games!
 - 📫 How to reach me: +918076740647
 - 😄 Pronouns: Won't Tell :)
